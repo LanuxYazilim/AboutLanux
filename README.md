@@ -46,7 +46,7 @@ Amacımız, **güçlü ve yenilikçi projeleri** halkımızın hizmetine sunarak
 
 ---
 
-## 📬 İletişim
+## 📬 İletişim  <a name="iletisim"></a>
 
 Lanux Yazılım Hizmetleri ile iletişime geçmek için:
 
